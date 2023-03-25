@@ -9,8 +9,8 @@ JS: convenient features
   
 ## Automatic completement function  
   
-* html:5  
-:Fundamental HTML code setting  
+* html:5 
+  :Fundamental HTML code setting  
   
 # 2. HTML basic grammar finish quickly  
   
@@ -19,7 +19,7 @@ JS: convenient features
   
 * html tag: Decide document type  
     * head tag: Set invisible document or CSS, JS link  
-    * body tag: Output Contents  
+        * body tag: Output Contents  
   
 ## 2-2. Semantic tag  
 * main tag: Group important contents in specific web page  
