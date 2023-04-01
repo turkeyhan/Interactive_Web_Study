@@ -12,7 +12,7 @@ JS: convenient features
 * html:5 
   :Fundamental HTML code setting  
 
-# 2. HTML basic grammar finish quickly  
+# 2. HTML basic Syntax finish quickly  
 
 ## 2-1. HTML File  
 * Tag: Rules of web contents, Open tag and close tag  
