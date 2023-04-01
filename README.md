@@ -2,4 +2,9 @@
   
 * Week_1  
     : Preparing to create a web page  
-      HTML basic grammar finish quickly  
+      Finishing HTML basic syntax quickly  
+  
+* Week_2  
+    : Finishing CSS basic syntax quickly  
+
+  
