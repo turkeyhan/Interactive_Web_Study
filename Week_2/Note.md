@@ -12,4 +12,7 @@
 * Descendant selector: Selecting all childs and child elements  
 * Child selector: Selecting direct childs, mark = ">"  
 * Group selector: Selecting several elements by group  
-* Sequence selector: Selecting by sequence among sibling elements  
+* Order selector: Selecting by sequence among sibling elements  
+* Sequence selector: Selecting by formula  
+* Last component selector: Selecting last component among sibling components  
+* Odd, Even selector: Selecting Odd or Even component  

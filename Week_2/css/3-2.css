@@ -41,9 +41,42 @@ h1, h2, h3{
 }
 */
 
+/*Order selector
 ul li:nth-of-type(1){
     border: 1px solid red;
 }
 ul li:nth-of-type(2){
     border: 1px solid green;
+}
+ul li:nth-of-type(3){
+    border: 1px solid blue;
+}
+ul li:nth-of-type(4){
+    border: 1px solid violet;
+}*/
+
+/*Sequence selector
+ul li:nth-of-type(2n){
+    border: 1px solid blue;
+}*/
+/*
+ul li:nth-of-type(3n) {
+    border: 1px solid blue;
+}*/
+/*
+ul li:nth-of-type(2n-1){
+    border: 1px solid blue;
+}*/
+
+/*last component selector
+ul li:last-child{
+    border: 1px solid blue;
+}*/
+
+/*Odd , Even selector*/
+ul li:nth-of-type(odd){
+    border: 1px solid blue;
+}
+ul li:nth-of-type(even){
+    border: 1px solid red;
 }
