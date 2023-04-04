@@ -73,10 +73,59 @@ ul li:last-child{
     border: 1px solid blue;
 }*/
 
-/*Odd , Even selector*/
+/*Odd , Even selector
 ul li:nth-of-type(odd){
     border: 1px solid blue;
 }
 ul li:nth-of-type(even){
     border: 1px solid red;
+}*/
+
+/*Property selector
+input[type="text"]{
+    border: 1px solid blue;
+}
+input[type="password"]{
+    border: 1px solid red;
+}*/
+
+/*Pseudo selector
+h1 {
+    border: 1px solid blue;
+}*/
+
+/*Mouse pointer
+h1:hover{
+    border: 1px solid red;
+}*/
+
+/*before h1
+h1:before {
+    content: "before content";
+    color: blue;
+}*/
+
+/*after h1
+h1:after {
+    content: "after content";
+    color: red;
+}*/
+
+/*Class selector
+p.text1{
+    border: 1px solid blue;
+}
+.text2{
+    border: 1px solid red;
+}*/
+
+/*ID selector*/
+#header{
+    border: 1px solid red;
+}
+#section{
+    border: 1px solid green;
+}
+#footer{
+    border: 1px solid violet;
 }

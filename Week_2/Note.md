@@ -16,3 +16,7 @@
 * Sequence selector: Selecting by formula  
 * Last component selector: Selecting last component among sibling components  
 * Odd, Even selector: Selecting Odd or Even component  
+* Property selector: Selecting by property value  
+* Pseudo selector: Selecting pseudo component  
+* Class selector: Selecting by class name  
+* ID selector: Selecting by ID name  
