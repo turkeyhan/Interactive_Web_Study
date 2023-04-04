@@ -20,3 +20,18 @@
 * Pseudo selector: Selecting pseudo component  
 * Class selector: Selecting by class name  
 * ID selector: Selecting by ID name  
+  
+## 3-3. Styling font  
+* font-weight: Changing thickness of font  
+* font-size: Changing size of font  
+* font-family: Changing shape of font  
+    * font site: Google web font, fontawesome ...etc  
+* color: Changing color of font  
+* line-height: Changing text line space  
+* text-align: Specify text alignment direction  
+* letter-spacing: Specify text spacing  
+  
+## 3-4. Set the size fo each area in web page  
+* width, height: Specify width and hegiht  
+* margin: Specify outer margin  
+* padding: Specify inner margin  
