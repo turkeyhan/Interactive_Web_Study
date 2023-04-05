@@ -40,10 +40,10 @@
 * border-style: Specify shape of border  
 * border-color: Specify color of border  
 * border: Specify thickness, shape, color of border at once  
-* inline: inside of left and right of tags  
-* block: row  
-* 'display: inline-block': add block attribute to inline element  
-* 'display: block': inline to block  
+* inline: Inside of left and right of tags  
+* block: Row  
+* 'display: inline-block': Add block attribute to inline element  
+* 'display: block': Inline to block  
   
 ## 3-5. Decorate the background of web page
 * background-color: Specify background color  
@@ -54,4 +54,28 @@
     * background-attachment: Freeze the background image so it doesn't move  
 
 ## 3-6. Make up layout of web page  
+* css reset
+```html
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul, ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+```
+* float: Assign location of block elements left and right  
+* position: Freely assign location of elements  
+    * relative: Relative position of original location  
+    * absolute: Absolute position of block or inline element to be based on  
+    * fixed: Fix position of element in web page screen even if user scrolls web page  
+* object-fit: fill contents specific area  
+    * fill: Ignore the proportinos of elements and make them full  
+    * cover: Filled with no margins while maintaining the proportions of the elements  
+    * contain: Keeps the proportions of the element and fills the content so that it is not cut off  
+* z-index: Specifies the z-order of overlapping elements  
+* opacity: Set the transparency of an element  
 
