@@ -55,7 +55,7 @@
 
 ## 3-6. Make up layout of web page  
 * css reset
-```html
+```css
 *{
     margin: 0px;
     padding: 0px;
