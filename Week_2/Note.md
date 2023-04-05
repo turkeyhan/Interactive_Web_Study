@@ -35,3 +35,23 @@
 * width, height: Specify width and hegiht  
 * margin: Specify outer margin  
 * padding: Specify inner margin  
+* box-sizing: Specify padding while maintaining the original box size  
+* border-width: Specify thickness of border  
+* border-style: Specify shape of border  
+* border-color: Specify color of border  
+* border: Specify thickness, shape, color of border at once  
+* inline: inside of left and right of tags  
+* block: row  
+* 'display: inline-block': add block attribute to inline element  
+* 'display: block': inline to block  
+  
+## 3-5. Decorate the background of web page
+* background-color: Specify background color  
+* background-image: Insert background image  
+    * background-repeat: Repeat background image  
+    * background-position: Specify location of background image  
+    * background-size: Specify size of background image  
+    * background-attachment: Freeze the background image so it doesn't move  
+
+## 3-6. Make up layout of web page  
+
