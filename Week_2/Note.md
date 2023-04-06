@@ -78,4 +78,9 @@ a{
     * contain: Keeps the proportions of the element and fills the content so that it is not cut off  
 * z-index: Specifies the z-order of overlapping elements  
 * opacity: Set the transparency of an element  
-
+  
+## 3-7. Apply various graphic effect  
+* box-shadow, text-shadow: Make a shadow of element  
+* border-radius: Make a corner roundly  
+* linear-gradient, radial-gradient: Apply a gradient  
+* filter: Use a special effect  
